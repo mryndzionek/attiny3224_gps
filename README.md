@@ -3,6 +3,8 @@
 Just a simple PoC to investigate the feasibility of a GPS with maps on a 8-bit MCU.
 The speed is not great, but might be enough for hiking.
 
+https://github.com/user-attachments/assets/bf5a60b8-a32d-4746-9d35-86d2ecc629e8
+
 ## Building
 
 At least 14.1.0 `avr-gcc` is required. Full setup can be found in
